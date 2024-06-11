@@ -5,7 +5,8 @@
 	<groupId>com.mycompany</groupId>
 	<artifactId>project045</artifactId>
 	<version>1.0.0</version>
-	<packaging>mule-application</packaging>
+	<packaging>jar</packaging>
+
 
 	<name>project045</name>
 
