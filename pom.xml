@@ -45,8 +45,8 @@
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.4.0</muleVersion>
-						<username>AlgoliaProject</username>
-						<password>Algolia123</password>
+						<username>Chaithanya1</username>
+						<password>Chaithu@516</password>
 						<applicationName>algolia-api12</applicationName>
 						<workers>1</workers>
 						<workerType>MICRO</workerType>
